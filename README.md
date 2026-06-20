@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **adityakuril760@live.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** MernStack project 
-- 🌱 **I’m currently learning:** Mongodb and Nodejs
+- 🔭 **I’m currently working on:** Next js project 
+- 🌱 **I’m currently learning:** Next js and Mongodb
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** adityakuril760@gmail.com
 - 😄 **Pronouns:** Adi
